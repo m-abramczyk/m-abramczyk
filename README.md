@@ -1,4 +1,12 @@
-## Hi there 👋
+## Hi, I'm Maciej,
+an architect turned fullstack developer. I'm into designing with systems, clean UI and backend logic.
+
+- I build fast, responsive websites using Django and custom JS/HTML/CSS frontends.
+- Active across the stack, with a growing interest in DevOps and infrastructure.
+- Learning React, Next.js, Django REST, and Tailwind, to integrate a fullstack workflow with modern tooling.
+
+Currently building: my own portfolio site (Next.js + Django REST)
+Previously: international architecture projects, competition wins, and running my own architecture + 3d rendering practice.
 
 <!--
 **m-abramczyk/m-abramczyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
