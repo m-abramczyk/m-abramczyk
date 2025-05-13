@@ -1,5 +1,5 @@
 ## Hi, I'm Maciej
-Architect turned fullstack developer. I'm into designing with systems, clean UI and backend logic.
+Architect turned fullstack developer. I design systems — from clean UI to backend (and occasionally, actual buildings).
 
 - I build fast, responsive websites using Django and custom JS/HTML/CSS frontends.
 - Active across the stack, with a growing interest in DevOps and infrastructure.
